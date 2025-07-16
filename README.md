@@ -32,5 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesayaaa&" alt="mesayaaa" /></p>
 
-<h3 align="left">My workflows</h3>
 ![snake gif](https://github.com/mesayaaa/mesayaaa/blob/output/github-snake-dark.svg)
