@@ -30,6 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesayaaa&show_icons=true&locale=en" alt="mesayaaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesayaaa&" alt="mesayaaa" /></p>
 
 ![snake gif](https://github.com/mesayaaa/mesayaaa/blob/output/github-snake-dark.svg)
