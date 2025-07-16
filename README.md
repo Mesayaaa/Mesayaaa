@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Mesaya</h1>
 <h3 align="center">An indie front-end developer passionate about building clean, responsive, and user-friendly web experiences.</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesayaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mesayaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesayaaa" alt="mesayaaa" /></a> </p>
@@ -31,5 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesayaaa&" alt="mesayaaa" /></p>
 
-
-![snake gif](https://github.com/mesayaaa/mesayaaa/blob/output/github-snake.svg)
+<h3 align="left">My workflows</h3>
+![snake gif](https://github.com/mesayaaa/mesayaaa/blob/output/github-snake-dark.svg)
