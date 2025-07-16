@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christopher Mesaya</h1>
+<h1 align="center">Hi👋 I'm Christopher Mesaya</h1>
 <h3 align="center">An indie front-end developer passionate about building clean, responsive, and user-friendly web experiences.</h3>
 
 
