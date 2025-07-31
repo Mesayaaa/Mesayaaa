@@ -72,12 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesayaaa&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
