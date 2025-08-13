@@ -20,6 +20,7 @@
 - 🌱 Learning modern **JavaScript frameworks**
 - 💬 Ask me about **React**, **Vue.js**, or **TailwindCSS**
 - 📫 Reach me at: `mesayachristopher2112@gmail.com`
+- 🌐 Check out my [Portfolio Website](https://christopher-mesaya-portfolio.vercel.app/)
 - 📄 Explore my experiences on [LinkedIn](https://www.linkedin.com/in/christopher-mesaya/)
 
 ---
@@ -28,6 +29,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/christopher-mesaya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://christopher-mesaya-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
@@ -71,7 +75,6 @@
 </table>
 
 ---
-
 
 ### 🐍 Contribution Snake
 <p align="center">
