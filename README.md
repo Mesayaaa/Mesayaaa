@@ -75,6 +75,11 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mesayaaa&custom_title=Mesayaaa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Mesayaaa's Activity Graph" />
+  <img width="100%" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+
 ---
 
 ### 🐍 Contribution Snake
