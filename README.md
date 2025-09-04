@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.gif)](https://github.com/halfrost)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead" width="100%" style="margin:0; padding:0;" />
 
 <h1 align="center">Hi 👋, I'm <span style="color:#00bcd4">Christopher Mesaya</span></h1>
 <h3 align="center">✨ Indie Front-End Developer crafting clean, responsive & user-friendly web experiences ✨</h3>
