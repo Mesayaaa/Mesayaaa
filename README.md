@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Flowcamp**
+- 🔭 Currently building **News Portal**
 - 🌱 Learning modern **JavaScript frameworks**
 - 💬 Ask me about **React**, **Vue.js**, or **TailwindCSS**
 - 📫 Reach me at: `mesayachristopher2112@gmail.com`
