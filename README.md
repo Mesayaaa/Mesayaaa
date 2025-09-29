@@ -4,6 +4,10 @@
 <h3 align="center">✨ Indie Front-End Developer crafting clean, responsive & user-friendly web experiences ✨</h3>
 
 <p align="center">
+      <img src="https://render.gitanimals.org/lines/deaafrizal?pet-id=657051833278790750" width="600" height="120" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mesayaaa&label=Profile%20views&color=0e75b6&style=flat" alt="mesayaaa" />
 </p>
 
